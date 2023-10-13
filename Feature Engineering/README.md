@@ -5,7 +5,7 @@ They say data is the new oil, but we don't use oil directly from its source. It 
 
 The same applies to data; we don't use it directly from its source. It also has to be processed.
 
-![Oil industry](https://i0.wp.com/cdn.analyticsvidhya.com/wp-content/uploads/2021/06/466981_K6ctE0RZme0cqMtknrxq8A.png?resize=350%2C200&ssl=1)
+![Oil industry](https://miro.medium.com/v2/resize:fit:1400/1*XpH1VGwvPc9eFBBJ8KMsPQ.jpeg)
 
 > "Information can be extracted from data just as energy can be extracted from oil." - Adeola Adesina
 
@@ -123,6 +123,7 @@ Here are some common methods to handle continuous features:
 ### Min-Max Normalization
 
 For each value in a feature, Min-Max normalization subtracts the minimum value in the feature and then divides by its range. The range is the difference between the original maximum and the original minimum.
+
 ![image](https://www.freecodecamp.org/news/content/images/2021/04/Picture2.png)
 
 Finally, it scales all values in a fixed range between 0 and 1.
