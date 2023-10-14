@@ -45,7 +45,7 @@ Explore the fascinating world of machine learning with the "ml_for_beginners" re
 <div align="center">
   <p>
     <a href="https://github.com/mcakyerima">
-      Author: [Mohammed Ak Yerima](https://github.com/mcakyerima)
+      Author: Mohammed Ak Yerima [GitHub](https://github.com/mcakyerima){:target="_blank"}
     </a>
   </p>
 </div>
