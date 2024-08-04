@@ -1,4 +1,4 @@
-# ML for Beginners 🚀
+# Machile Learning / Deep Learning for Beginners 🚀
 
 Welcome to the "ml_for_beginners" repository! This repository contains a collection of beginner-friendly machine learning projects, tutorials, glossaries, and resources to help you kickstart your journey in the world of machine learning. Whether you're new to ML or looking to refresh your knowledge, you'll find valuable content here.
 
